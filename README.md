@@ -2,7 +2,7 @@
 
 ### To run
 1. Clone
-2. `cd` your was into the repository
+2. `cd` your way into the repository
 2. run `npm install`
 3. run `node index.js`
 
