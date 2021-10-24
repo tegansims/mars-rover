@@ -1,0 +1,25 @@
+{
+  "name": "mars-rover",
+  "version": "1.0.0",
+  "description": "mars rover",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "prettier": {
+    "semi": false,
+    "arrowParens": "avoid",
+    "trailingComma": "none"
+  }
+}
